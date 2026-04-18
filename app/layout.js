@@ -1,5 +1,7 @@
+import './globals.css'
+
 export const metadata = {
-  title: 'Brevet Booster V2',
+  title: 'Brevet Booster',
   description: 'Plateforme de révision brevet maths',
 }
 
